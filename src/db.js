@@ -9,7 +9,7 @@ const { DB_USER, DB_PASSWORD, DB_HOST, DB_PORT } = process.env;
 const database = new Sequelize(
   `postgres://${DB_USER}:${DB_PASSWORD}@${DB_HOST}:${DB_PORT}/countries_e4ce`,
   {
-    logging: false,
+    logging: console.log,
     native: false,
   }
 );
