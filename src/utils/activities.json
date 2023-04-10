@@ -1,0 +1,101 @@
+[
+{
+	"name":"Buceo en el Caribe",
+	"difficulty": "3",
+	"duration": "2 horas",
+	"season": "summer",
+	"countries": ["French Southern and Antarctic Lands"]
+},
+ {
+    "name": "Senderismo en las montañas",
+    "difficulty": "3",
+    "duration": "4 horas",
+    "season": "summer",
+    "countries": ["United States", "Canada", "Mexico"]
+  },
+  {
+    "name": "Visita a las ruinas mayas",
+    "difficulty": "2",
+    "duration": "3 horas",
+    "season": "winter",
+    "countries": ["Mexico", "Brazil", "Cameroon"]
+  },
+  {
+    "name": "Surf en la costa",
+    "difficulty": "4",
+    "duration": "2 horas",
+    "season": "spring",
+    "countries": ["France", "Egypt", "Nicaragua"]
+  },
+  {
+    "name": "Ciclismo de montaña",
+    "difficulty": "3",
+    "duration": "5 horas",
+    "season": "autumn",
+    "countries": ["Trinidad and Tobago", "Ghana", "Argelia"]
+  },
+  {
+    "name": "Buceo en las profundidades",
+    "difficulty": "2",
+    "duration": "2 horas",
+    "season": "summer",
+    "countries": ["Uganda", "Bahamas", "Colombia"]
+  },
+  {
+    "name": "Esquí en los Alpes",
+    "difficulty": "5",
+    "duration": "6 horas",
+    "season": "winter",
+    "countries": ["Suiza", "Austria", "Italy"]
+  },
+  {
+    "name": "Caminata en la selva",
+    "difficulty": "4",
+    "duration": "3 horas",
+    "season": "spring",
+    "countries": ["Brazil", "Peru", "Ecuador"]
+  },
+  {
+    "name": "Escalada en roca",
+    "difficulty": "5",
+    "duration": "8 horas",
+    "season": "winter",
+    "countries": ["Kenya", "Palestine", "Chile"]
+  },
+  {
+    "name": "Kayak en un lago",
+    "difficulty": "2",
+    "duration": "4 horas",
+    "season": "autumn",
+    "countries": ["China", "Poland", "Rusia"]
+  },
+  {
+    "name": "Paseo en bote por el río",
+    "difficulty": "1",
+    "duration": "1 hora",
+    "season": "summer",
+    "countries": ["Honduras", "Namibia", "Uruguay"]
+  },
+  {
+    "name": "Tour en bicicleta por la ciudad",
+    "difficulty": "1",
+    "duration": "2 horas",
+    "season": "spring",
+    "countries": ["Singapore", "Libya", "Bélgica"]
+  },
+  {
+    "name": "Espeleología en cuevas",
+    "difficulty": "4",
+    "duration": "5 horas",
+    "season": "winter",
+    "countries": ["Spain", "Ireland", "Turkey"]
+  },
+  {
+    "name": "Observación de aves",
+    "difficulty": "1",
+    "duration": "3 horas",
+    "season": "autumn",
+    "countries": ["Bolivia", "Germany", "Cyprus"]
+  }
+
+]
