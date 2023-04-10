@@ -13,7 +13,7 @@ const { CORS_OPTION } = process.env;
 
 server.use(morgan("dev"));
 server.use(express.json());
-server.use(cors({ origin: "https://countries-8hsb.onrender.com" }));
+server.use(cors({ origin: CORS_OPTION }));
 server.use("/countries", countryRouter);
 server.use("/activities", activityRouter);
 
