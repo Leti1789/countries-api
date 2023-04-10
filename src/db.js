@@ -7,7 +7,8 @@ const { DB_USER, DB_PASSWORD, DB_HOST, DB_PORT } = process.env;
 
 //?Conexion con la base de datos
 const database = new Sequelize(
-  `postgres://${DB_USER}:${DB_PASSWORD}@${DB_HOST}:${DB_PORT}/countries_e4ce`,
+  // `postgres://${DB_USER}:${DB_PASSWORD}@${DB_HOST}:${DB_PORT}/countries_e4ce`,
+  "postgres://countries_e4ce_user:lFuBqThAtfdJpmrrZ663Eh6AL3erXInj@dpg-cgppm75269v5rj85bb9g-a/countries_e4ce",
   {
     logging: console.log,
     native: false,
