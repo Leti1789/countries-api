@@ -22,8 +22,9 @@ createInfoToDB();
 
 
 server.listen(PORT, async () => {
-  await database.sync({alter:true})
+  await database
+    .sync()
     .then(() => console.log("server listening on port", PORT))
-    .catch(err => console.error(err.message))
+    .catch((err) => console.error(err.message));
   
 });
